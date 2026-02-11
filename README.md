@@ -1,0 +1,26 @@
+# LABTAINER EXERCISE 
+# INTRODUCTION TO LINUX AND SHELL COMMANDS
+
+This is an open public lab devloped by the [Naval Post Graduate School](https://nps.edu/).\
+
+To setup the working environment refer to the set up file but here is a quick checklist:\
+**FYI this lab was conducted using a 2022 M2 chip MacBook air device**
+1. Download the UTM application from store it is free
+2. Download the image container file (.qcow2 extension) from [Naval Post Graduate School](https://nps.edu/)
+3. Open the UTM and then 'create an emulated virtual machine';
+4. Use the image and complete setup
+
+The tasks/instructions of this project can be found in nix-commands.pdf
+
+The report of this project can be found in Linux Fundamentals & System Administration.pdf, 
+which shows all the steps, commands, results and explanations you will use or meet in this lab.
+
+Through this project you will learn some basic operations and commands of Linux.
+You will know how CLI navigation works and realize this set up.
+
+Hope my understanding and documentation helps others get a better grasp of the topic at hand!!!\
+You can reach out anytime for questions or even discussions!
+
+Referrence:
+- https://github.com/CamilYed/Labtainer-ARM-mac?tab=readme-ov-file#preparing-the-labtainer-image-manually 
+- https://nps.edu/web/c3o/labtainer-lab-summary1
