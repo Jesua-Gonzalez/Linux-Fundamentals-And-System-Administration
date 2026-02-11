@@ -1,7 +1,7 @@
 # LABTAINER EXERCISE 
 # INTRODUCTION TO LINUX AND SHELL COMMANDS
 
-This is an open public lab devloped by the [Naval Post Graduate School](https://nps.edu/).\
+This is an open public lab devloped by the [Naval Post Graduate School](https://nps.edu/).
 
 To setup the working environment refer to the set up file but here is a quick checklist:\
 **FYI this lab was conducted using a 2022 M2 chip MacBook air device**
